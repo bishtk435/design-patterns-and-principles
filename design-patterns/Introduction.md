@@ -79,5 +79,3 @@ While design patterns are incredibly useful, they should not be overused. Rememb
 > "If all you have is a hammer, everything looks like a nail."
 
 The best approach is to understand the problem thoroughly first, and then determine if a design pattern is appropriate. Using a pattern unnecessarily can lead to overcomplicated code.
-
-In the following sections, we'll explore each design pattern in detail with TypeScript examples.
