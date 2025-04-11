@@ -18,10 +18,6 @@ Having multiple instances could lead to problems like:
 - Resource overuse
 - Reduced performance
 
-## Structure
-
-![Singleton Pattern Structure](https://www.plantuml.com/plantuml/png/SoWkIImgAStDuU8goIp9ILLmJyrBBKfAJYtAJ2fDuN98pKi12WE0sm40)
-
 ## Implementation in TypeScript
 
 ### Basic Implementation
