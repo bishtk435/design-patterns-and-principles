@@ -17,10 +17,6 @@ Consider a scenario where:
 - You need to integrate with a legacy library that only works with XML
 - Instead of rewriting the legacy code, you can create an adapter that converts JSON to XML and vice versa
 
-## Structure
-
-![Adapter Pattern Structure](https://www.plantuml.com/plantuml/png/bP9DIiD048Rl-HL3JxVW1wIsTX4Y5Vg1X6AkWCGrHjHOT6JR8_PwxzrG6OZx6BprphVx-_vwQMbA2XWbCy3i0RK9Kv3-SUXHPiX5_5eDKN7_QJyeT0aaS1wXkIIQxFNfUDzH0e-e2JqrYPdUUMpRJrq0opRDpb-bTfAITDzXrGxcGlxHDkF1G--NVVhGNVP-BPp75a6Mk7aJPUG9NvOQnQM9nkD3ZRpI_yV0QP_lUeTdblEQgXzZIwgJvpX5Zo_iSxFNQI-DY-mrlSI6qkj4bXqUyrJvjTxR-WS0)
-
 ### Object Adapter Pattern
 This uses composition. The adapter implements the target interface and holds an instance of the adaptee.
 
