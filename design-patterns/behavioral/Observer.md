@@ -19,10 +19,6 @@ In many applications, objects need to be notified when certain things happen:
 
 The Observer pattern solves this problem by establishing a subscription mechanism where "observer" objects can subscribe to "subject" objects. The subject notifies all registered observers when its state changes.
 
-## Structure
-
-![Observer Pattern Structure](https://www.plantuml.com/plantuml/png/TP11Yzim38Nl-HN3tZrWQ1Pe7YLBGYcwIDXaDeKjzs8nfXbLaGTt7SLaKurlldyixgdP1rLODJ99grgDC2VDBa9Qne1A9h3Qh7CrPcJmWKhEWm_1nZf6MXssbXaKfbP_Qiv4kGKlsXJnm6OJcuQCBY5-A33_h6u0N8hW2QDQzedBMdjG0K2XCxCOPsaQ4KGx1gqFfgYQCelL2kwQm4qDWAvWC0WKpNdLnxrKtLVJo2b4lVvWqn3PbkXMUMTUgAWbJ6fTjKqPB9_3iJVdAaLgY8D_hGhMy0wFmIVMsTpdV0C_)
-
 ## Implementation in TypeScript
 
 ### Basic Implementation
